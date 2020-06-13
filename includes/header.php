@@ -76,10 +76,10 @@
     <form class="form-inline my-2 my-lg-0">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link text-white" href="#">Register</a>
+        <a class="nav-link text-white" href="register.php">Register</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white" href="#">Login</a>
+        <a class="nav-link text-white" href="login.php">Login</a>
       </li>
       <li class="nav-item">
         <a class="nav-link text-white" href="about.php">About</a>
