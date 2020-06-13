@@ -1,3 +1,10 @@
+    
+    </br>
+    <div id="footer">
+        <nav class="navbar fixed-bottom navbar-light bg-light">
+        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true"><small>Copyright&copy; <?php echo date('Y')?> - Sirius Property Software (Pty) Ltd.</small></a>
+        </nav>
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
